@@ -1,0 +1,2 @@
+graft mp2hudcolor
+exclude mp2hudcolor/mp2hudcolor_wrapper.c
